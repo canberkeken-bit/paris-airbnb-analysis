@@ -1,0 +1,16 @@
+analiz,kategori,ilan_sayisi,doluluk_orani_pct,ortalama_fiyat,ortalama_puan
+1 - Genel KPI,Tum Paris,500,75.7,158.02,4.67
+2 - Oda Tipi,Entire home/apt,450,76.2,165.98,4.66
+2 - Oda Tipi,Private room,49,70.7,87.39,4.73
+2 - Oda Tipi,Shared room,1,83.3,41.44,4.74
+3 - Cevap Suresi,within an hour,211,78.3,154.62,4.68
+3 - Cevap Suresi,within a few hours,143,74.3,178.84,4.70
+3 - Cevap Suresi,within a day,124,73.3,142.99,4.69
+3 - Cevap Suresi,a few days or more,22,73.0,140.09,4.24
+4 - Aylik Trend,2022-09,500,93.1,158.15,4.67
+4 - Aylik Trend,2022-10,500,86.4,157.85,4.67
+4 - Aylik Trend,2022-11,500,73.0,155.49,4.67
+4 - Aylik Trend,2022-12,500,69.4,159.22,4.67
+4 - Aylik Trend,2023-01,500,62.0,159.35,4.67
+5 - Performans Sinifi,Performans Ustu,325,92.7,140.76,4.68
+5 - Performans Sinifi,Performans Alti,175,44.1,190.11,4.64
